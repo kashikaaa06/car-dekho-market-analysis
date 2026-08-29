@@ -1,0 +1,44 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.pyc
+__pycache__/
+
+# Data files (large files)
+*.csv
+*.xlsx
+*.xls
+*.pkl
+*.sqlite
+!sample_data.csv
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.tmp
+
+# Outputs
+visualizations/*.png
+visualizations/*.jpg
+visualizations/*.html
+!car_analysis_test.png
+
+# Environment variables
+.env
