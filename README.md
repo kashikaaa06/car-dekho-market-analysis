@@ -21,25 +21,7 @@ The dataset contains **301 records** of used cars and bikes with features like s
 
 ---
 
-## 📁 Project Structure
-data analysis/
-├── 📁 data/
-│ └── car_data.csv # Main dataset (301 records)
-├── 📁 notebooks/
-│ ├── 📁 data_overview/ # Q1-Q5: Data Overview
-│ ├── 📁 vehicleanalysis/ # Q6-Q11: Vehicle Analysis
-│ ├── 📁 depreciation/ # Q12-Q14: Depreciation Analysis
-│ ├── 📁 caranalysis/ # Q15-Q17: Car Analysis
-│ ├── 📁 twowheeler/ # Q18-Q21: Two-Wheeler Analysis
-│ └── 📁 cardeepdive/ # Q22-Q25: Car Deep Dive
-├── 📁 visualizations/ # All generated charts (14 files)
-├── 📄 requirements.txt # Project dependencies
-├── 📄 README.md # Project documentation
-└── 📄 .gitignore # Git ignore file
 
-text
-
----
 
 ## 🛠️ Technologies Used
 
