@@ -34,11 +34,11 @@ Thumbs.db
 *.log
 *.tmp
 
-# Outputs
-visualizations/*.png
-visualizations/*.jpg
-visualizations/*.html
-!car_analysis_test.png
+# Outputs - Charts are now tracked!
+# visualizations/*.png    ← Commented out
+# visualizations/*.jpg    ← Commented out
+# visualizations/*.html   ← Commented out
+# !car_analysis_test.png  ← Removed
 
 # Environment variables
 .env
